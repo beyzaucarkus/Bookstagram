@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953410622377",
+    "project_id": "insapp-73b6f",
+    "storage_bucket": "insapp-73b6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953410622377:android:f525d8b289745b6a232ab8",
+        "android_client_info": {
+          "package_name": "com.example.myapplication5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953410622377-kv5rji93rl0u8h3j2936t8lut4ta4dpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvdSLmzCH3sKXKfZzn1VxRpkhv-022jyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953410622377-kv5rji93rl0u8h3j2936t8lut4ta4dpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
